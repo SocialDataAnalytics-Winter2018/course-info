@@ -76,12 +76,12 @@ Students with diverse learning styles and needs are welcome in this course. If y
 
 ## Schedule
 
-- Week 1 (1005: 1/12, 1006: 3/1)
+- Week 1 (1005: 1/11, 1006: 3/1)
     - Introduction to the course
     - [Lab setup, introduction to Python](../../../lab01)
-- Week 2 (1005: 1/19, 1006: 3/8)
+- Week 2 (1005: 1/18, 1006: 3/8)
     - [Data cleaning](../../../lab02)
-- Week 3 (1005: 1/26, 1006: 3/15)
+- Week 3 (1005: 1/25, 1006: 3/15)
     - [Data manipulation](../../../lab03)
 - Week 4 (1005: 2/1, 1006: 3/22)
     - [Web scraping and APIs](../../../lab04)
